@@ -16,8 +16,8 @@
   display:none;
 }
 
-#wall .parent div#tag-5.slick {
-  display:none;
+#wall .parent #tag-5 .click {
+  display: none;
 }
 
 #wall .parent #tag-6 {
